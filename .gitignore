@@ -1,0 +1,11 @@
+*.log
+.mainsail.json
+.variables.stb
+printer-*.cfg
+.variables.stb
+*.png
+*.csv
+*.jpg
+*.txt
+.moonraker.conf.bkp
+input_shaper/**/
